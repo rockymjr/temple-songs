@@ -4,61 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Village Music Playlists</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-        }
-        audio {
-            width: 100%;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Village Music Playlists</h1>
     <div id="playlists"></div>
 
     <script>
-        // Load JSON data
+        // Load JSON data for playlists
         fetch('playlists.json')
             .then(response => response.json())
             .then(playlists => {
-                // Get the container
                 const container = document.getElementById('playlists');
 
                 // Loop through playlists and create sections
                 for (const [day, songs] of Object.entries(playlists)) {
-                    // Add day heading
-                    const heading = document.createElement('h2');
-                    heading.innerText = day;
-                    container.appendChild(heading);
+                    const dayContainer = document.createElement('div');
+                    dayContainer.classList.add('day-container');
 
-                    // Create list
+                    // Create day title
+                    const dayTitle = document.createElement('h2');
+                    dayTitle.classList.add('playlist-title');
+                    dayTitle.innerText = day;
+
+                    dayContainer.appendChild(dayTitle);
+
+                    // Create list of songs
                     const list = document.createElement('ul');
                     songs.forEach(song => {
                         const item = document.createElement('li');
+                        
                         const audio = document.createElement('audio');
                         audio.controls = true;
-
                         const source = document.createElement('source');
                         source.src = song;
                         source.type = 'audio/mpeg';
-
                         audio.appendChild(source);
                         item.appendChild(audio);
+
                         list.appendChild(item);
                     });
 
-                    container.appendChild(list);
+                    dayContainer.appendChild(list);
+                    container.appendChild(dayContainer);
                 }
             })
             .catch(error => console.error('Error loading playlists:', error));
