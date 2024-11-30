@@ -1,89 +1,134 @@
+/* General Body Styling */
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f7f6;
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fc;
     margin: 0;
     padding: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+	text-align: center;
+	margin-bottom: 80px;
 }
 
 h1 {
-    color: #2c3e50;
-    margin-top: 50px;
-    font-size: 3em;
     text-align: center;
-    font-family: 'Segoe UI', sans-serif;
+    color: #2c3e50;
+    font-size: 1.8rem;
+    margin: 20px 0;
 }
 
-h2 {
-    color: #34495e;
-    font-size: 2em;
-    margin-bottom: 15px;
-}
-
-#playlists {
+/* Playlist Container Styling */
+.day-container {
+    margin: 10px auto;
     width: 90%;
-    max-width: 900px;
-    margin: 20px;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    border: 2px solid #3498db;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+	text-align: center;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-li {
-    background-color: #ecf0f1;
+/* Playlist Title Styling */
+.playlist-title {
+    background-color: #3498db;
+    color: white;
     padding: 10px;
-    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0;
+	text-align: center;
 }
 
-li:hover {
-    background-color: #bdc3c7;
+.playlist-title:hover {
+    background-color: #2980b9;
+	text-align: center;
 }
 
-audio {
-    width: 80%;
+/* Song List Styling */
+.playlist-songs {
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    display: none;
+    background-color: #ecf0f1;
+}
+
+.playlist-songs li {
+    padding: 8px;
+    margin: 5px 0;
+    background-color: #ffffff;
+    border: 1px solid #bdc3c7;
     border-radius: 5px;
-    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s;
+	 text-align: center;
 }
 
-.day-container {
-    margin-bottom: 40px;
+.playlist-songs li:hover {
+    background-color: #dfe6e9;
 }
 
-.playlist-title {
-    color: #2980b9;
-    font-size: 1.5em;
-    margin-bottom: 10px;
+#audio-player {
+    position: sticky; /* Keeps the player at the top when scrolling */
+    top: 0; /* Positions it directly below the header */
+    left: 0;
+    width: 100%;
+    background-color: #ffffff;
+    border-bottom: 2px solid #2ecc71; /* Add a bottom border for distinction */
+    z-index: 1000; /* Ensures it stays above other elements */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for emphasis */
+    text-align: center;
+    padding: 10px 0; /* Add padding for better spacing */
+    display: flex;
+    align-items: center; /* Vertically align player content */
+    justify-content: center; /* Horizontally center buttons and text */
+    height: 80px; /* Set a fixed height for consistency */
 }
 
-@media (max-width: 768px) {
-    body {
-        padding: 10px;
-    }
+#audio-player button {
+    margin: 0 10px; /* Add spacing between buttons */
+    padding: 8px 12px; /* Add padding for better touch targets on mobile */
+    border: none;
+    background-color: #2ecc71;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
 
-    .day-container {
-        margin-bottom: 30px;
-    }
+#audio-player .current-song {
+    white-space: nowrap; /* Prevent line breaks */
+    overflow: hidden; /* Hide overflowing text */
+    text-overflow: ellipsis; /* Add "..." for long text */
+    display: inline-block; /* Keep it inline */
+    max-width: 80%; /* Limit width to prevent overlapping with buttons */
+    vertical-align: middle; /* Align the text with buttons */
+    font-size: 14px; /* Adjust font size for readability */
+    margin: 0 10px; /* Add spacing around the text */
+}
 
-    h1 {
-        font-size: 2em;
-    }
+#audio-player button:hover {
+    background-color: #27ae60; /* Slightly darker on hover */
+}
 
-    .playlist-title {
-        font-size: 1.2em;
-    }
+.player-controls button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.player-controls button:hover {
+    background-color: #2980b9;
+}
+
+.hidden {
+    display: none;
 }

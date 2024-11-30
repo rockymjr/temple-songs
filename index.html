@@ -3,53 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Village Music Playlists</title>
+    <title>ঢুড়িপাড়া মন্দিরের গান</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Village Music Playlists</h1>
-    <div id="playlists"></div>
+    <h1>ঢুড়িপাড়া মন্দিরের গান </h1>
+	
+	<!-- Audio Player -->
+    <div id="audio-player" class="hidden">
+        <audio id="audio" controls></audio>
+        <p id="current-song">Playing: None</p>
+        <div class="player-controls">
+            <button id="prev">Previous</button>
+            <button id="next">Next</button>
+        </div>
+    </div>
 
-    <script>
-        // Load JSON data for playlists
-        fetch('playlists.json')
-            .then(response => response.json())
-            .then(playlists => {
-                const container = document.getElementById('playlists');
+    <!-- Playlists -->
+    <div class="day-container">
+        <h2 class="playlist-title">রবিবার সকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+    <div class="day-container">
+        <h2 class="playlist-title">রবিবার বিকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+    <div class="day-container">
+        <h2 class="playlist-title">সোমবার সকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+	 <div class="day-container">
+        <h2 class="playlist-title">সোমবার  বিকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+	 <div class="day-container">
+        <h2 class="playlist-title">মঙ্গলবার সকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+	 <div class="day-container">
+        <h2 class="playlist-title">মঙ্গলবার বিকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+	 <div class="day-container">
+        <h2 class="playlist-title">বুধবার সকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+	 <div class="day-container">
+        <h2 class="playlist-title">বুধবার  বিকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+	 <div class="day-container">
+        <h2 class="playlist-title">বৃহস্পতিবার সকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+	 <div class="day-container">
+        <h2 class="playlist-title">বৃহস্পতিবার বিকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+	 <div class="day-container">
+        <h2 class="playlist-title">শুক্রবার সকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div> 
+	<div class="day-container">
+        <h2 class="playlist-title">শুক্রবার বিকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div> 
+	<div class="day-container">
+        <h2 class="playlist-title">শনিবার সকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+		 <div class="day-container">
+        <h2 class="playlist-title">শনিবার বিকাল</h2>
+        <ul class="playlist-songs"></ul>
+    </div>
+    <!-- Add more containers for each day -->
 
-                // Loop through playlists and create sections
-                for (const [day, songs] of Object.entries(playlists)) {
-                    const dayContainer = document.createElement('div');
-                    dayContainer.classList.add('day-container');
-
-                    // Create day title
-                    const dayTitle = document.createElement('h2');
-                    dayTitle.classList.add('playlist-title');
-                    dayTitle.innerText = day;
-
-                    dayContainer.appendChild(dayTitle);
-
-                    // Create list of songs
-                    const list = document.createElement('ul');
-                    songs.forEach(song => {
-                        const item = document.createElement('li');
-                        
-                        const audio = document.createElement('audio');
-                        audio.controls = true;
-                        const source = document.createElement('source');
-                        source.src = song;
-                        source.type = 'audio/mpeg';
-                        audio.appendChild(source);
-                        item.appendChild(audio);
-
-                        list.appendChild(item);
-                    });
-
-                    dayContainer.appendChild(list);
-                    container.appendChild(dayContainer);
-                }
-            })
-            .catch(error => console.error('Error loading playlists:', error));
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
