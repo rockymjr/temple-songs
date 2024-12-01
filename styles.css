@@ -71,20 +71,37 @@ h1 {
 }
 
 #audio-player {
-    position: sticky; /* Keeps the player at the top when scrolling */
-    top: 0; /* Positions it directly below the header */
+    position: sticky;
+    top: 0;
     left: 0;
     width: 100%;
     background-color: #ffffff;
-    border-bottom: 2px solid #2ecc71; /* Add a bottom border for distinction */
-    z-index: 1000; /* Ensures it stays above other elements */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for emphasis */
+    border-bottom: 2px solid #2ecc71;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     text-align: center;
-    padding: 10px 0; /* Add padding for better spacing */
+    padding: 10px 0;
     display: flex;
-    align-items: center; /* Vertically align player content */
-    justify-content: center; /* Horizontally center buttons and text */
-    height: 80px; /* Set a fixed height for consistency */
+    flex-direction: column; /* Stack rows vertically */
+    align-items: center; /* Center-align content horizontally */
+    justify-content: center;
+    height: auto; /* Allow dynamic height adjustment */
+}
+
+.current-song {
+    overflow: hidden; /* Hide overflowing text */
+    white-space: nowrap; /* Prevent text wrapping */
+    width: 90%; /* Limit the width of the text area */
+    max-width: 100%; /* Ensure it adapts to smaller screens */
+    margin: 0 auto 5px; /* Center it and add spacing below */
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    background: #f9f9f9;
+    padding: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left; /* Align text to make scrolling natural */
 }
 
 #audio-player button {
@@ -113,22 +130,39 @@ h1 {
     background-color: #27ae60; /* Slightly darker on hover */
 }
 
+.player-controls {
+    display: flex;
+    gap: 10px; /* Add spacing between buttons */
+}
+
 .player-controls button {
-    padding: 10px 20px;
-    margin: 5px;
+    padding: 8px 12px;
     border: none;
+    background-color: #2ecc71;
+    color: #fff;
     border-radius: 5px;
-    background-color: #3498db;
-    color: white;
-    font-size: 1rem;
     cursor: pointer;
-    transition: background-color 0.2s;
+    font-size: 14px;
 }
 
 .player-controls button:hover {
-    background-color: #2980b9;
+    background-color: #27ae60;
 }
 
 .hidden {
     display: none;
+}
+
+.scrolling-text {
+    display: inline-block;
+    animation: scroll-text 10s linear infinite; /* Adjust duration as needed */
+}
+
+@keyframes scroll-text {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
 }
