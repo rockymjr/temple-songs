@@ -1,7 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
     const playlists = document.querySelectorAll(".day-container");
-    const songListElements = document.querySelectorAll(".playlist-songs");
-    const audioPlayer = document.getElementById("audio-player");
     const audioElement = document.getElementById("audio");
     const currentSongDisplay = document.getElementById("current-song");
     const nextButton = document.getElementById("next");
@@ -9,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     let currentPlaylistIndex = -1;
     let currentSongIndex = -1;
+    let currentSongElement = null;  // To track the currently playing song element
     let playlistsData = [];
 
     // Load JSON file
@@ -19,8 +18,9 @@ document.addEventListener("DOMContentLoaded", function () {
             initializePlaylists();
         });
 
+    // Initialize playlists and songs
     function initializePlaylists() {
-        playlists.forEach((playlist, index) => {
+        playlists.forEach((playlist, playlistIndex) => {
             const titleElement = playlist.querySelector(".playlist-title");
             const songList = playlist.querySelector(".playlist-songs");
 
@@ -28,18 +28,16 @@ document.addEventListener("DOMContentLoaded", function () {
             songList.style.display = "none";
 
             // Populate songs
-            playlistsData[index].songs.forEach(song => {
+            playlistsData[playlistIndex].songs.forEach((song, songIndex) => {
                 const songItem = document.createElement("li");
                 songItem.textContent = song.name;
-                songItem.addEventListener("click", () => playSong(index, playlistsData[index].songs.indexOf(song)));
+                songItem.addEventListener("click", () => playSong(playlistIndex, songIndex, songItem));
                 songList.appendChild(songItem);
             });
 
-            // Expand/Collapse on click
+            // Expand/Collapse playlist on title click
             titleElement.addEventListener("click", () => {
                 if (songList.style.display === "none") {
-                    // Collapse other open folders
-                    songListElements.forEach(sl => (sl.style.display = "none"));
                     songList.style.display = "block";
                 } else {
                     songList.style.display = "none";
@@ -48,15 +46,25 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    function playSong(playlistIndex, songIndex) {
+    // Play the song and update the player
+    function playSong(playlistIndex, songIndex, songElement) {
+        // Update current song index
         currentPlaylistIndex = playlistIndex;
         currentSongIndex = songIndex;
 
         const song = playlistsData[playlistIndex].songs[songIndex];
         audioElement.src = song.url;
         audioElement.play();
+
+        // Update current song display
         currentSongDisplay.textContent = `Playing: ${song.name}`;
-        audioPlayer.classList.remove("hidden");
+
+        // Highlight the current song
+        if (currentSongElement) {
+            currentSongElement.classList.remove("highlight");
+        }
+        songElement.classList.add("highlight");
+        currentSongElement = songElement;
     }
 
     // Next Song
@@ -67,7 +75,8 @@ document.addEventListener("DOMContentLoaded", function () {
         if (currentSongIndex >= playlistsData[currentPlaylistIndex].songs.length) {
             currentSongIndex = 0;
         }
-        playSong(currentPlaylistIndex, currentSongIndex);
+        const songItem = playlists[currentPlaylistIndex].querySelectorAll(".playlist-songs li")[currentSongIndex];
+        playSong(currentPlaylistIndex, currentSongIndex, songItem);
     });
 
     // Previous Song
@@ -78,6 +87,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (currentSongIndex < 0) {
             currentSongIndex = playlistsData[currentPlaylistIndex].songs.length - 1;
         }
-        playSong(currentPlaylistIndex, currentSongIndex);
+        const songItem = playlists[currentPlaylistIndex].querySelectorAll(".playlist-songs li")[currentSongIndex];
+        playSong(currentPlaylistIndex, currentSongIndex, songItem);
     });
 });
