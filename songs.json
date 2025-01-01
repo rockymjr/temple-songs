@@ -37,39 +37,6 @@
         ]
     },
     {
-        "folder": "চিত্র বিছিত্র - হিন্দি ভজন",
-        "songs": [
-            {
-                "name": "Chitra Vichitra - Kali Kamli Wala Mera Yaar Hai",
-                "url": "Chitra_Vichitra/Chitra Vichitra - Kali Kamli Wala Mera Yaar Hai.mp3"
-            },
-            {
-                "name": "Chitra Vichitra - Karunamayi Kripa Kijie",
-                "url": "Chitra_Vichitra/Chitra Vichitra - Karunamayi Kripa Kijie.mp3"
-            },
-            {
-                "name": "Chitra Vichitra - Meri Vinti Yahi Hai Radha Rani",
-                "url": "Chitra_Vichitra/Chitra Vichitra - Meri Vinti Yahi Hai Radha Rani.mp3"
-            },
-            {
-                "name": "Chitra Vichitra - Sanware Ko Dil Me Basa Kar To",
-                "url": "Chitra_Vichitra/Chitra Vichitra - Sanware Ko Dil Me Basa Kar To.mp3"
-            },
-            {
-                "name": "Chitra Vichitra - Tere Janmo Ki Bhatkan Mitegi",
-                "url": "Chitra_Vichitra/Chitra Vichitra - Tere Janmo Ki Bhatkan Mitegi.mp3"
-            },
-            {
-                "name": "Chitra Vichitra Chal Re man Vrindavan",
-                "url": "Chitra_Vichitra/Chitra Vichitra Chal Re man Vrindavan.mp3"
-            },
-            {
-                "name": "Tu radhe radhe bol jara Chitra Vichitra",
-                "url": "Chitra_Vichitra/Tu radhe radhe bol jara Chitra Vichitra.mp3"
-            }
-        ]
-    },
-    {
         "folder": "হনুমান ভজন",
         "songs": [
             {
@@ -492,35 +459,6 @@
         ]
     },
     {
-        "folder": "ইসকন ভজন",
-        "songs": [
-            {
-                "name": "ISKCON Gour Arati Jaya Jaya Gora Chad",
-                "url": "ISKCON/ISKCON Gour Arati Jaya Jaya Gora Chad.mp3"
-            },
-            {
-                "name": "Iskcon Namaste Narasimhaya",
-                "url": "ISKCON/Iskcon Namaste Narasimhaya.mp3"
-            },
-            {
-                "name": "Iskcon Sandhya Aarti Bhaja Bhakata Batsala",
-                "url": "ISKCON/Iskcon Sandhya Aarti Bhaja Bhakata Batsala.mp3"
-            },
-            {
-                "name": "Iskcon Sri Guru Charanapaddma 2",
-                "url": "ISKCON/Iskcon Sri Guru Charanapaddma 2.mp3"
-            },
-            {
-                "name": "ISKCON Sri Krishna Chaitanya Prabhu Iskcon Bhaj",
-                "url": "ISKCON/ISKCON Sri Krishna Chaitanya Prabhu Iskcon Bhaj.mp3"
-            },
-            {
-                "name": "ISKCON Tulasi Arati",
-                "url": "ISKCON/ISKCON Tulasi Arati.mp3"
-            }
-        ]
-    },
-    {
         "folder": "বাংলা কৃষ্ণ ভজন",
         "songs": [
             {
@@ -613,49 +551,8 @@
                 "url": "Krishna_Bhajan_Hindi/Shri Krishna Govind Hare Murari Ravindra Jain.mp3"
             },
             {
-                "name": "SHRIMAD BHAGVAD GEETA GYAN SHRI KRISHNA VAANI",
-                "url": "Krishna_Bhajan_Hindi/SHRIMAD BHAGVAD GEETA GYAN SHRI KRISHNA VAANI.mp3"
-            },
-            {
                 "name": "Shyama Aan Baso Vrindavan Mein - TRIPTI SHAKYA",
                 "url": "Krishna_Bhajan_Hindi/Shyama Aan Baso Vrindavan Mein - TRIPTI SHAKYA.mp3"
-            }
-        ]
-    },
-    {
-        "folder": "দুর্গা ভজন",
-        "songs": [
-            {
-                "name": "chalo bulawa aaya hai",
-                "url": "Maata_Vaishno_Devi/chalo bulawa aaya hai.mp3"
-            },
-            {
-                "name": "Durga Ashtottar Shatnam",
-                "url": "Maata_Vaishno_Devi/Durga Ashtottar Shatnam.mp3"
-            },
-            {
-                "name": "gayatri mantra 21 times anuradha paudwal",
-                "url": "Maata_Vaishno_Devi/gayatri mantra 21 times anuradha paudwal.mp3"
-            },
-            {
-                "name": "Main Balak Tu Mata Aa Maa Aa Tujhe Dil Ne Pukara -",
-                "url": "Maata_Vaishno_Devi/Main Balak Tu Mata Aa Maa Aa Tujhe Dil Ne Pukara -.mp3"
-            },
-            {
-                "name": "Mata Vaishno Devi - Durga Chalisa",
-                "url": "Maata_Vaishno_Devi/Mata Vaishno Devi - Durga Chalisa.mp3"
-            },
-            {
-                "name": "Mata Vaishno Devi - Maa Tu Sheravali",
-                "url": "Maata_Vaishno_Devi/Mata Vaishno Devi - Maa Tu Sheravali.mp3"
-            },
-            {
-                "name": "Mata Vaishno Devi - Saanjh Sakare",
-                "url": "Maata_Vaishno_Devi/Mata Vaishno Devi - Saanjh Sakare.mp3"
-            },
-            {
-                "name": "Navratri - O Aaye Tere Bhawan",
-                "url": "Maata_Vaishno_Devi/Navratri - O Aaye Tere Bhawan.mp3"
             }
         ]
     },
