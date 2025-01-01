@@ -1,500 +1,743 @@
 [
-	{
-		"day": "রবিবার সকাল",
-		"songs": [
-			{
-				"name": "হরে কৃষ্ণ - আমার গর্ব শুধু এই",
-				"url": "01_Sunday_Morning/Aamar Garbo Shudhu Ai hore krishna.mp3"
-			},
-			{
-				"name": "হরে কৃষ্ণ - অমর শিল্পী তুমি কিশোরে কুমার",
-				"url": "01_Sunday_Morning/Amar Shilpi Tumi Kishore Kumar Horinaam.mp3"
-			},
-			{
-				"name": "হরে কৃষ্ণ - আমি হেলে দুলে যাবো",
-				"url": "01_Sunday_Morning/Ami Hele Dule Jabo Sosan Ghate Hare Krishna.mp3"
-			},
-			{
-				"name": "হরে কৃষ্ণ - অনেক বেদনায় ভরা আমার জীবন",
-				"url": "01_Sunday_Morning/Anek Bedonay Bhara Amar Jibon.mp3"
-			},
-			{
-				"name": "হরে কৃষ্ণ - ভালোবাসো আর নাইবা বাস",
-				"url": "01_Sunday_Morning/Bhalobaso Ar Naiba Basho Hare.mp3"
-			},
-			{
-				"name": "হরে  কৃষ্ণ - ভ্রমর কইয়ো গিয়া",
-				"url": "01_Sunday_Morning/Bhromor koigo giya HORINAMERVELA.mp3"
-			},
-			{
-				"name": "হরে কৃষ্ণ - দয়া বতি দরদিনি মা",
-				"url": "01_Sunday_Morning/Doya Boti Dorodini Maa.mp3"
-			},
-			{
-				"name": "হরে কৃষ্ণ - বহুত প্যার করতে হয় - মালয় প্রামানিক",
-				"url": "01_Sunday_Morning/Hare Krishna Maloy 5 - Bahut Pyar Karte.mp3"
-			}
-		]
-	},
-	{
-		"day": "রবিবার বিকাল",
-		"songs": [
-			{
-				"name": "অনুপ জালটা - কৃষ্ণা কৃষ্ণা বলে",
-				"url": "02_Sunday_Evening/Anup Jalota - Krishna Krishna Bole.mp3"
-			},
-			{
-				"name": "অনুপ জালটা - কৃষ্ণ কৃষ্ণ শুধু সে",
-				"url": "02_Sunday_Evening/Anup Jalota - Krishna Krishna sudhu se.mp3"
-			},
-			{
-				"name": "অনুপ জালটা - কৃষ্ণ প্রেমের কমল কলিটি",
-				"url": "02_Sunday_Evening/Anup Jalota - Krishna Premero Kamal Koliti.mp3"
-			},
-			{
-				"name": "অনুপ জালটা - মন রে আমার বেড়াস নি",
-				"url": "02_Sunday_Evening/Anup Jalota - Mon Re Amar Beras Ni.mp3"
-			},
-			{
-				"name": "অনুপ জালটা - নন্দদুলাল ব্রজের গোপাল",
-				"url": "02_Sunday_Evening/Anup Jalota - Nanda dulal brozer gopal.mp3"
-			},
-			{
-				"name": "অনুপ জালটা - নিজেকে করিব দান ",
-				"url": "02_Sunday_Evening/Anup Jalota - Nijeke Koribo Daan.mp3"
-			},
-			{
-				"name": "অনুপ জালটা - পেয়েছি তোমায় কাছে",
-				"url": "02_Sunday_Evening/Anup Jalota - Peyechi Tomai Kache.mp3"
-			},
-			{
-				"name": "অনুপ জালটা - তোমার অতুল রসাল",
-				"url": "02_Sunday_Evening/Anup Jalota - Tomar Atul Rosal.mp3"
-			},
-			{
-				"name": "এসো আলো এসো  হে",
-				"url": "02_Sunday_Evening/Eso Alo Eso He.mp3"
-			},
-			{
-				"name": "জীবনের সার তুমি প্রভু - ছোট বৌ",
-				"url": "02_Sunday_Evening/Jibonero Sar Tumi Probhu - Choto Bou.mp3"
-			},
-			{
-				"name": "ওম জয় জগদীশ হরে",
-				"url": "02_Sunday_Evening/Om Jai Jagdish Hare Aarti I ANURADHA PAUDWAL.mp3"
-			},
-			{
-				"name": "রচা হয় সৃষ্টিকো জিস প্রভুনে",
-				"url": "02_Sunday_Evening/Racha Hai Sristi ko Jis prabhu ne.mp3"
-			}
-		]
-	},
-	{
-		"day": "সোমবার সকাল",
-		"songs": [
-			{
-				"name": "Hey Bhole Shankar Padhao - Shiv Aarti - Gulshan Ku",
-				"url": "03_Monday_Morning/Hey Bhole Shankar Padhao - Shiv Aarti - Gulshan Ku.mp3"
-			},
-			{
-				"name": "Hey Shivshankar Anuradha Paudwal",
-				"url": "03_Monday_Morning/Hey Shivshankar Anuradha Paudwal.mp3"
-			},
-			{
-				"name": "Mahamritunjay Manta Anuradha Paudwal",
-				"url": "03_Monday_Morning/Mahamritunjay Manta Anuradha Paudwal.mp3"
-			},
-			{
-				"name": "Om Namah Shivay Anuradha Paudwal",
-				"url": "03_Monday_Morning/Om Namah Shivay Anuradha Paudwal.mp3"
-			},
-			{
-				"name": "Prabhu He Bholanath",
-				"url": "03_Monday_Morning/Prabhu He Bholanath.mp3"
-			},
-			{
-				"name": "Subah Subah Le Shiv Ka Naam Gulshan Kumar",
-				"url": "03_Monday_Morning/Subah Subah Le Shiv Ka Naam Gulshan Kumar.mp3"
-			}
-		]
-	},
-	{
-		"day": "সোমবার বিকাল",
-		"songs": [
-			{
-				"name": "Anuradha Shiv Shankar Ko Jisne Puja - Shiv Aarti",
-				"url": "04_Monday_Evening/Anuradha Shiv Shankar Ko Jisne Puja - Shiv Aarti.mp3"
-			},
-			{
-				"name": "Eei Je Akash Ar Ei Je Mati",
-				"url": "04_Monday_Evening/Eei Je Akash Ar Ei Je Mati.mp3"
-			},
-			{
-				"name": "Ganga Ki Har mauj mai",
-				"url": "04_Monday_Evening/Ganga Ki Har mauj mai.mp3"
-			},
-			{
-				"name": "Hey Shiv Shankar",
-				"url": "04_Monday_Evening/Hey Shiv Shankar.mp3"
-			},
-			{
-				"name": "Jis din jubav pe meri - Shiv Aarti - Anuradha Paud",
-				"url": "04_Monday_Evening/Jis din jubav pe meri - Shiv Aarti - Anuradha Paud.mp3"
-			},
-			{
-				"name": "Liya Naam Jisne Bhi Shiv Aarti - Gulshan Kumar",
-				"url": "04_Monday_Evening/Liya Naam Jisne Bhi Shiv Aarti - Gulshan Kumar.mp3"
-			},
-			{
-				"name": "Mahadev Shankar Hai Jag Se Nirale - Shiv Aarti -",
-				"url": "04_Monday_Evening/Mahadev Shankar Hai Jag Se Nirale - Shiv Aarti -.mp3"
-			},
-			{
-				"name": "Man mera mandir - Shiv Aarti - Anuradha Paudwal",
-				"url": "04_Monday_Evening/Man mera mandir - Shiv Aarti - Anuradha Paudwal.mp3"
-			},
-			{
-				"name": "Shiv Shankar Ka Gun Gaan Karo - Shiv Aarti - Gulsh",
-				"url": "04_Monday_Evening/Shiv Shankar Ka Gun Gaan Karo - Shiv Aarti - Gulsh.mp3"
-			},
-			{
-				"name": "Shiv shankar ko jisne puja - Shiv Aarti - Gulsha",
-				"url": "04_Monday_Evening/Shiv shankar ko jisne puja - Shiv Aarti - Gulsha.mp3"
-			}
-		]
-	},
-	{
-		"day": "মঙ্গলবার সকাল",
-		"songs": [
-			{
-				"name": "Jai Jai Jai Hanuman Gusai - Gulshan Kumar",
-				"url": "05_Tuesday_Morning/Jai Jai Jai Hanuman Gusai - Gulshan Kumar.mp3"
-			},
-			{
-				"name": "Keejo Kesari Ke Laal Hanuman Bhajan By LAKHBIR S",
-				"url": "05_Tuesday_Morning/Keejo Kesari Ke Laal Hanuman Bhajan By LAKHBIR S.mp3"
-			},
-			{
-				"name": "Mangalmurti Maruti Nandan - Hariharan",
-				"url": "05_Tuesday_Morning/Mangalmurti Maruti Nandan - Hariharan.mp3"
-			},
-			{
-				"name": "Ram Na Milenge Hanuman Ke Bina, LAKHBIR SINGH LA",
-				"url": "05_Tuesday_Morning/Ram Na Milenge Hanuman Ke Bina, LAKHBIR SINGH LA.mp3"
-			},
-			{
-				"name": "Sankat Mochan Hanuman Ashtak HARIHARAN",
-				"url": "05_Tuesday_Morning/Sankat Mochan Hanuman Ashtak HARIHARAN.mp3"
-			},
-			{
-				"name": "Shree Hanuman Amritwani Part 2 by Anuradha Paudw",
-				"url": "05_Tuesday_Morning/Shree Hanuman Amritwani Part 2 by Anuradha Paudw.mp3"
-			},
-			{
-				"name": "Shree Hanuman Chalisa",
-				"url": "05_Tuesday_Morning/Shree Hanuman Chalisa.mp3"
-			},
-			{
-				"name": "Shree Hanuman Ji Ki Aarti - Hariharan",
-				"url": "05_Tuesday_Morning/Shree Hanuman Ji Ki Aarti - Hariharan.mp3"
-			}
-		]
-	},
-	{
-		"day": "মঙ্গলবার বিকাল",
-		"songs": [
-			{
-				"name": "Chitra Vichitra - Kali Kamli Wala Mera Yaar Hai",
-				"url": "06_Tuesday_Evening/Chitra Vichitra - Kali Kamli Wala Mera Yaar Hai.mp3"
-			},
-			{
-				"name": "Chitra Vichitra - Karunamayi Kripa Kijie",
-				"url": "06_Tuesday_Evening/Chitra Vichitra - Karunamayi Kripa Kijie.mp3"
-			},
-			{
-				"name": "Chitra Vichitra - Meri Vinti Yahi Hai Radha Rani",
-				"url": "06_Tuesday_Evening/Chitra Vichitra - Meri Vinti Yahi Hai Radha Rani.mp3"
-			},
-			{
-				"name": "Chitra Vichitra - Sanware Ko Dil Me Basa Kar To",
-				"url": "06_Tuesday_Evening/Chitra Vichitra - Sanware Ko Dil Me Basa Kar To.mp3"
-			},
-			{
-				"name": "Chitra Vichitra - Tere Janmo Ki Bhatkan Mitegi",
-				"url": "06_Tuesday_Evening/Chitra Vichitra - Tere Janmo Ki Bhatkan Mitegi.mp3"
-			}
-		]
-	},
-	{
-		"day": "বুধবার সকাল",
-		"songs": [
-			{
-				"name": "Dil Diya Hai Jaan Bhi Denge Sure Harinaam",
-				"url": "07_Wednesday_Morning/Dil Diya Hai Jaan Bhi Denge Sure Harinaam.mp3"
-			},
-			{
-				"name": "E Jibone Daga Chara r Ki Peli",
-				"url": "07_Wednesday_Morning/E Jibone Daga Chara r Ki Peli.mp3"
-			},
-			{
-				"name": "Gari Boliya Jan Bhawaiya",
-				"url": "07_Wednesday_Morning/Gari Boliya Jan Bhawaiya.mp3"
-			},
-			{
-				"name": "Hare Krishna Maloy 1",
-				"url": "07_Wednesday_Morning/Hare Krishna Maloy 1.mp3"
-			},
-			{
-				"name": "Hare Krishna Maloy 2 - Radhe Radhe Japa",
-				"url": "07_Wednesday_Morning/Hare Krishna Maloy 2 - Radhe Radhe Japa.mp3"
-			},
-			{
-				"name": "Hare Krishna Maloy 3",
-				"url": "07_Wednesday_Morning/Hare Krishna Maloy 3.mp3"
-			},
-			{
-				"name": "Hare Krishna Maloy 4 - Ar koto raat eka",
-				"url": "07_Wednesday_Morning/Hare Krishna Maloy 4 - Ar koto raat eka.mp3"
-			},
-			{
-				"name": "Hare Krishna Maloy 6 - Rangabati",
-				"url": "07_Wednesday_Morning/Hare Krishna Maloy 6 - Rangabati.mp3"
-			},
-			{
-				"name": "Milon Hobe Koto Dine Horinam  Hitu Horinam  King",
-				"url": "07_Wednesday_Morning/Milon Hobe Koto Dine Horinam  Hitu Horinam  King.mp3"
-			}
-		]
-	},
-	{
-		"day": "বুধবার বিকাল",
-		"songs": [
-			{
-				"name": "ISKCON Gour Arati Jaya Jaya Gora Chad",
-				"url": "08_Wednesday_Evening/ISKCON Gour Arati Jaya Jaya Gora Chad.mp3"
-			},
-			{
-				"name": "ISKCON Sri Krishna Chaitanya Prabhu Iskcon Bhaj",
-				"url": "08_Wednesday_Evening/ISKCON Sri Krishna Chaitanya Prabhu Iskcon Bhaj.mp3"
-			},
-			{
-				"name": "ISKCON Tulasi Arati",
-				"url": "08_Wednesday_Evening/ISKCON Tulasi Arati.mp3"
-			},
-			{
-				"name": "Iskcon Namaste Narasimhaya",
-				"url": "08_Wednesday_Evening/Iskcon Namaste Narasimhaya.mp3"
-			},
-			{
-				"name": "Iskcon Sandhya Aarti Bhaja Bhakata Batsala",
-				"url": "08_Wednesday_Evening/Iskcon Sandhya Aarti Bhaja Bhakata Batsala.mp3"
-			},
-			{
-				"name": "Iskcon Sri Guru Charanapaddma 2",
-				"url": "08_Wednesday_Evening/Iskcon Sri Guru Charanapaddma 2.mp3"
-			}
-		]
-	},
-	{
-		"day": "বৃহস্পতিবার সকাল",
-		"songs": [
-			{
-				"name": "Hare Krishna Maloy 7- amar eei horinam",
-				"url": "09_Thursday_Morning/Hare Krishna Maloy 7- amar eei horinam.mp3"
-			},
-			{
-				"name": "Jabe Jadin Sosan ghate",
-				"url": "09_Thursday_Morning/Jabe Jadin Sosan ghate.mp3"
-			},
-			{
-				"name": "Ke bole Pagal se jeno kothay",
-				"url": "09_Thursday_Morning/Ke bole Pagal se jeno kothay.mp3"
-			},
-			{
-				"name": "Koto sadhonar fole",
-				"url": "09_Thursday_Morning/Koto sadhonar fole.mp3"
-			},
-			{
-				"name": "Mangal Deep Jwele",
-				"url": "09_Thursday_Morning/Mangal Deep Jwele.mp3"
-			},
-			{
-				"name": "Moner manush kende chole jai",
-				"url": "09_Thursday_Morning/Moner manush kende chole jai.mp3"
-			},
-			{
-				"name": "O Sathi Bojho Naki Horinaam",
-				"url": "09_Thursday_Morning/O Sathi Bojho Naki Horinaam.mp3"
-			},
-			{
-				"name": "abar hobeto dekha",
-				"url": "09_Thursday_Morning/abar hobeto dekha.mp3"
-			}
-		]
-	},
-	{
-		"day": "বৃহস্পতিবার বিকাল",
-		"songs": [
-			{
-				"name": "Anup Jalota Aisi Lagi Lagan Meera Ho Gayi Magan",
-				"url": "10_Thursday_Evening/Anup Jalota Aisi Lagi Lagan Meera Ho Gayi Magan.mp3"
-			},
-			{
-				"name": "Itna to Karna Swami Jab Pran Tan Se Nikle",
-				"url": "10_Thursday_Evening/Itna to Karna Swami Jab Pran Tan Se Nikle.mp3"
-			},
-			{
-				"name": "Jai Radhe Krishna Radhe Krishna Bhajan ANURADHA PA",
-				"url": "10_Thursday_Evening/Jai Radhe Krishna Radhe Krishna Bhajan ANURADHA PA.mp3"
-			},
-			{
-				"name": "Kishori kuch aisa intjam ho jaye",
-				"url": "10_Thursday_Evening/Kishori kuch aisa intjam ho jaye.mp3"
-			},
-			{
-				"name": "Krishna Gayatri Anuradha Paudwal",
-				"url": "10_Thursday_Evening/Krishna Gayatri Anuradha Paudwal.mp3"
-			},
-			{
-				"name": "Narayan narayan hari hari",
-				"url": "10_Thursday_Evening/Narayan narayan hari hari.mp3"
-			},
-			{
-				"name": "shyam er o basi baze",
-				"url": "10_Thursday_Evening/shyam er o basi baze.mp3"
-			}
-		]
-	},
-	{
-		"day": "শুক্রবার সকাল",
-		"songs": [
-			{
-				"name": "Maloy Dar Baul Hare Krishna",
-				"url": "11_Friday_Morning/Maloy Dar Baul Hare Krishna.mp3"
-			},
-			{
-				"name": "Nayono Saroshi Keno Horinaam",
-				"url": "11_Friday_Morning/Nayono Saroshi Keno Horinaam.mp3"
-			},
-			{
-				"name": "Pranam Tomay he Tarakeswar",
-				"url": "11_Friday_Morning/Pranam Tomay he Tarakeswar.mp3"
-			},
-			{
-				"name": "Rat Name Du Chokhe",
-				"url": "11_Friday_Morning/Rat Name Du Chokhe.mp3"
-			},
-			{
-				"name": "Tomai Chare Kothai Jabo",
-				"url": "11_Friday_Morning/Tomai Chare Kothai Jabo.mp3"
-			},
-			{
-				"name": "o ki o sadher dotara sadher dotara horinaam",
-				"url": "11_Friday_Morning/o ki o sadher dotara sadher dotara horinaam.mp3"
-			},
-			{
-				"name": "onek bedone vora jibon Maloy",
-				"url": "11_Friday_Morning/onek bedone vora jibon Maloy.mp3"
-			}
-		]
-	},
-	{
-		"day": "শুক্রবার বিকাল",
-		"songs": [
-			{
-				"name": "Durga Ashtottar Shatnam",
-				"url": "11_Friday_Morning/Durga Ashtottar Shatnam.mp3"
-			},
-			{
-				"name": "Main Balak Tu Mata Aa Maa Aa Tujhe Dil Ne Pukara -",
-				"url": "11_Friday_Morning/Main Balak Tu Mata Aa Maa Aa Tujhe Dil Ne Pukara -.mp3"
-			},
-			{
-				"name": "Mata Vaishno Devi - Durga Chalisa",
-				"url": "11_Friday_Morning/Mata Vaishno Devi - Durga Chalisa.mp3"
-			},
-			{
-				"name": "Mata Vaishno Devi - Maa Tu Sheravali",
-				"url": "11_Friday_Morning/Mata Vaishno Devi - Maa Tu Sheravali.mp3"
-			},
-			{
-				"name": "Mata Vaishno Devi - Saanjh Sakare",
-				"url": "11_Friday_Morning/Mata Vaishno Devi - Saanjh Sakare.mp3"
-			},
-			{
-				"name": "Navratri - O Aaye Tere Bhawan",
-				"url": "11_Friday_Morning/Navratri - O Aaye Tere Bhawan.mp3"
-			},
-			{
-				"name": "chalo bulawa aaya hai",
-				"url": "11_Friday_Morning/chalo bulawa aaya hai.mp3"
-			}
-		]
-	},
-	{
-		"day": "শনিবার সকাল",
-		"songs": [
-			{
-				"name": "Heart Touching harinam vaikunthadarshan harekris",
-				"url": "13_Saturday_Morning/Heart Touching harinam vaikunthadarshan harekris.mp3"
-			},
-			{
-				"name": "Milon Hobe Koto Dine Horinam  Hitu Horinam  King",
-				"url": "13_Saturday_Morning/Milon Hobe Koto Dine Horinam  Hitu Horinam  King.mp3"
-			},
-			{
-				"name": "Prabhat Samaye",
-				"url": "13_Saturday_Morning/Prabhat Samaye.mp3"
-			},
-			{
-				"name": "Pran Jurano Hare Krishna",
-				"url": "13_Saturday_Morning/Pran Jurano Hare Krishna.mp3"
-			},
-			{
-				"name": "janina kon thikanai maloy",
-				"url": "13_Saturday_Morning/janina kon thikanai maloy.mp3"
-			},
-			{
-				"name": "se to elona",
-				"url": "13_Saturday_Morning/se to elona.mp3"
-			},
-			{
-				"name": "somoi gele sadhona hobena",
-				"url": "13_Saturday_Morning/somoi gele sadhona hobena.mp3"
-			}
-		]
-	},
-	{
-		"day": "শনিবার বিকাল",
-		"songs": [
-			{
-				"name": "Nagri ho ayodhya si",
-				"url": "14_Saturday_Evening/Nagri ho ayodhya si.mp3"
-			},
-			{
-				"name": "Nodiyar Pothe Pothe",
-				"url": "14_Saturday_Evening/Nodiyar Pothe Pothe.mp3"
-			},
-			{
-				"name": "Radhe Radhe Japa Karo",
-				"url": "14_Saturday_Evening/Radhe Radhe Japa Karo.mp3"
-			},
-			{
-				"name": "Radhe-Radhe-Barsane-Wali-Radhe",
-				"url": "14_Saturday_Evening/Radhe-Radhe-Barsane-Wali-Radhe.mp3"
-			},
-			{
-				"name": "Raghupati Raghav Raja Ram - Hariharan",
-				"url": "14_Saturday_Evening/Raghupati Raghav Raja Ram - Hariharan.mp3"
-			},
-			{
-				"name": "Shri Krishna Govind Hare Murari Ravindra Jain",
-				"url": "14_Saturday_Evening/Shri Krishna Govind Hare Murari Ravindra Jain.mp3"
-			},
-			{
-				"name": "Shyama Aan Baso Vrindavan Mein - TRIPTI SHAKYA",
-				"url": "14_Saturday_Evening/Shyama Aan Baso Vrindavan Mein - TRIPTI SHAKYA.mp3"
-			}
-		]
-	}
+    {
+        "folder": "আনুপ জালটা - বাংলা ভজন",
+        "songs": [
+            {
+                "name": "Anup Jalota - Krishna Krishna Bole",
+                "url": "Anup_Jalota_Bengali_Bhajan/Anup Jalota - Krishna Krishna Bole.mp3"
+            },
+            {
+                "name": "Anup Jalota - Krishna Krishna sudhu se",
+                "url": "Anup_Jalota_Bengali_Bhajan/Anup Jalota - Krishna Krishna sudhu se.mp3"
+            },
+            {
+                "name": "Anup Jalota - Krishna Premero Kamal Koliti",
+                "url": "Anup_Jalota_Bengali_Bhajan/Anup Jalota - Krishna Premero Kamal Koliti.mp3"
+            },
+            {
+                "name": "Anup Jalota - Mon Re Amar Beras Ni",
+                "url": "Anup_Jalota_Bengali_Bhajan/Anup Jalota - Mon Re Amar Beras Ni.mp3"
+            },
+            {
+                "name": "Anup Jalota - Nanda dulal brozer gopal",
+                "url": "Anup_Jalota_Bengali_Bhajan/Anup Jalota - Nanda dulal brozer gopal.mp3"
+            },
+            {
+                "name": "Anup Jalota - Nijeke Koribo Daan",
+                "url": "Anup_Jalota_Bengali_Bhajan/Anup Jalota - Nijeke Koribo Daan.mp3"
+            },
+            {
+                "name": "Anup Jalota - Peyechi Tomai Kache",
+                "url": "Anup_Jalota_Bengali_Bhajan/Anup Jalota - Peyechi Tomai Kache.mp3"
+            },
+            {
+                "name": "Anup Jalota - Tomar Atul Rosal",
+                "url": "Anup_Jalota_Bengali_Bhajan/Anup Jalota - Tomar Atul Rosal.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "চিত্র বিছিত্র - হিন্দি ভজন",
+        "songs": [
+            {
+                "name": "Chitra Vichitra - Kali Kamli Wala Mera Yaar Hai",
+                "url": "Chitra_Vichitra/Chitra Vichitra - Kali Kamli Wala Mera Yaar Hai.mp3"
+            },
+            {
+                "name": "Chitra Vichitra - Karunamayi Kripa Kijie",
+                "url": "Chitra_Vichitra/Chitra Vichitra - Karunamayi Kripa Kijie.mp3"
+            },
+            {
+                "name": "Chitra Vichitra - Meri Vinti Yahi Hai Radha Rani",
+                "url": "Chitra_Vichitra/Chitra Vichitra - Meri Vinti Yahi Hai Radha Rani.mp3"
+            },
+            {
+                "name": "Chitra Vichitra - Sanware Ko Dil Me Basa Kar To",
+                "url": "Chitra_Vichitra/Chitra Vichitra - Sanware Ko Dil Me Basa Kar To.mp3"
+            },
+            {
+                "name": "Chitra Vichitra - Tere Janmo Ki Bhatkan Mitegi",
+                "url": "Chitra_Vichitra/Chitra Vichitra - Tere Janmo Ki Bhatkan Mitegi.mp3"
+            },
+            {
+                "name": "Chitra Vichitra Chal Re man Vrindavan",
+                "url": "Chitra_Vichitra/Chitra Vichitra Chal Re man Vrindavan.mp3"
+            },
+            {
+                "name": "Tu radhe radhe bol jara Chitra Vichitra",
+                "url": "Chitra_Vichitra/Tu radhe radhe bol jara Chitra Vichitra.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "হনুমান ভজন",
+        "songs": [
+            {
+                "name": "Hey Dukh Bhanjan Hariharan",
+                "url": "Hanuman/Hey Dukh Bhanjan Hariharan.mp3"
+            },
+            {
+                "name": "Jai Jai Jai Hanuman Gusai - Gulshan Kumar",
+                "url": "Hanuman/Jai Jai Jai Hanuman Gusai - Gulshan Kumar.mp3"
+            },
+            {
+                "name": "Keejo Kesari Ke Laal Hanuman Bhajan By LAKHBIR S",
+                "url": "Hanuman/Keejo Kesari Ke Laal Hanuman Bhajan By LAKHBIR S.mp3"
+            },
+            {
+                "name": "Mangalmurti Maruti Nandan - Hariharan",
+                "url": "Hanuman/Mangalmurti Maruti Nandan - Hariharan.mp3"
+            },
+            {
+                "name": "Ram Na Milenge Hanuman Ke Bina, LAKHBIR SINGH LA",
+                "url": "Hanuman/Ram Na Milenge Hanuman Ke Bina, LAKHBIR SINGH LA.mp3"
+            },
+            {
+                "name": "Sankat Mochan Hanuman Ashtak HARIHARAN",
+                "url": "Hanuman/Sankat Mochan Hanuman Ashtak HARIHARAN.mp3"
+            },
+            {
+                "name": "Shree Hanuman Amritwani Part 2 by Anuradha Paudw",
+                "url": "Hanuman/Shree Hanuman Amritwani Part 2 by Anuradha Paudw.mp3"
+            },
+            {
+                "name": "Shree Hanuman Chalisa",
+                "url": "Hanuman/Shree Hanuman Chalisa.mp3"
+            },
+            {
+                "name": "Shree Hanuman Ji Ki Aarti - Hariharan",
+                "url": "Hanuman/Shree Hanuman Ji Ki Aarti - Hariharan.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "হরে কৃষ্ণ - নদিয়া - অন্যান্য",
+        "songs": [
+            {
+                "name": "abar hobeto dekha",
+                "url": "HareKrishna_Nadiya/abar hobeto dekha.mp3"
+            },
+            {
+                "name": "Ajke Morle Kalke Duidin l Subhas Das",
+                "url": "HareKrishna_Nadiya/Ajke Morle Kalke Duidin l Subhas Das.mp3"
+            },
+            {
+                "name": "Anek Bedonay Bhara Amar Jibon",
+                "url": "HareKrishna_Nadiya/Anek Bedonay Bhara Amar Jibon.mp3"
+            },
+            {
+                "name": "Baul sure horinam",
+                "url": "HareKrishna_Nadiya/Baul sure horinam.mp3"
+            },
+            {
+                "name": "Best of atunu horinaam - Atunu Biswas",
+                "url": "HareKrishna_Nadiya/Best of atunu horinaam - Atunu Biswas.mp3"
+            },
+            {
+                "name": "Bhalobaso Ar Naiba Basho Hare",
+                "url": "HareKrishna_Nadiya/Bhalobaso Ar Naiba Basho Hare.mp3"
+            },
+            {
+                "name": "Bhromor koigo giya HORINAMERVELA",
+                "url": "HareKrishna_Nadiya/Bhromor koigo giya HORINAMERVELA.mp3"
+            },
+            {
+                "name": "Debasiser horinam Shyama Sangeet Sur",
+                "url": "HareKrishna_Nadiya/Debasiser horinam Shyama Sangeet Sur.mp3"
+            },
+            {
+                "name": "Gari Boliya Jan Bhawaiya",
+                "url": "HareKrishna_Nadiya/Gari Boliya Jan Bhawaiya.mp3"
+            },
+            {
+                "name": "Keno je tumi ogo bhalobaso amay",
+                "url": "HareKrishna_Nadiya/Keno je tumi ogo bhalobaso amay.mp3"
+            },
+            {
+                "name": "Kichu Hashi Kichu Asha - Tapas Mondal",
+                "url": "HareKrishna_Nadiya/Kichu Hashi Kichu Asha - Tapas Mondal.mp3"
+            },
+            {
+                "name": "O bondhu poran bondhu re",
+                "url": "HareKrishna_Nadiya/O bondhu poran bondhu re.mp3"
+            },
+            {
+                "name": "o ki o sadher dotara sadher dotara - Mithun Khyapa",
+                "url": "HareKrishna_Nadiya/o ki o sadher dotara sadher dotara - Mithun Khyapa.mp3"
+            },
+            {
+                "name": "O Nagor Koiya Jao - Sukanta Ghosh",
+                "url": "HareKrishna_Nadiya/O Nagor Koiya Jao - Sukanta Ghosh.mp3"
+            },
+            {
+                "name": "Probhati - Hare Krishna Sampraday",
+                "url": "HareKrishna_Nadiya/Probhati - Hare Krishna Sampraday.mp3"
+            },
+            {
+                "name": "SAB LAAL PATHARI TO",
+                "url": "HareKrishna_Nadiya/SAB LAAL PATHARI TO.mp3"
+            },
+            {
+                "name": "Sachi mata go tor gora je ! hare krishna ! Babon horinaam",
+                "url": "HareKrishna_Nadiya/Sachi mata go tor gora je ! hare krishna ! Babon horinaam.mp3"
+            },
+            {
+                "name": "Sandesa Aate Hai",
+                "url": "HareKrishna_Nadiya/Sandesa Aate Hai.mp3"
+            },
+            {
+                "name": "se to elona",
+                "url": "HareKrishna_Nadiya/se to elona.mp3"
+            },
+            {
+                "name": "Soite Na Pari Doyal Re - Sukanta Harinam",
+                "url": "HareKrishna_Nadiya/Soite Na Pari Doyal Re - Sukanta Harinam.mp3"
+            },
+            {
+                "name": "somoi gele sadhona hobena",
+                "url": "HareKrishna_Nadiya/somoi gele sadhona hobena.mp3"
+            },
+            {
+                "name": "Somoy Gele sadho hobe Na l Subash Das",
+                "url": "HareKrishna_Nadiya/Somoy Gele sadho hobe Na l Subash Das.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "হরে কৃষ্ণ - নদিয়া - অতনু বিশ্বাস",
+        "songs": [
+            {
+                "name": "Aamar Garbo Shudhu Ai  - Horinam - Atanu Biswas",
+                "url": "Hare_Krishna_Atanu_Biswas_Hitu/Aamar Garbo Shudhu Ai  - Horinam - Atanu Biswas.mp3"
+            },
+            {
+                "name": "Amar Shilpi Tumi Kishore Kumar Horinaam - Atanu Biswas Hitu",
+                "url": "Hare_Krishna_Atanu_Biswas_Hitu/Amar Shilpi Tumi Kishore Kumar Horinaam - Atanu Biswas Hitu.mp3"
+            },
+            {
+                "name": "Dil Diya Hai Jaan Bhi Denge - Harinaam - Atanu Biswas",
+                "url": "Hare_Krishna_Atanu_Biswas_Hitu/Dil Diya Hai Jaan Bhi Denge - Harinaam - Atanu Biswas.mp3"
+            },
+            {
+                "name": "Koto Sadhonar Fole - Horinaam - Atanu Biswas Hitu",
+                "url": "Hare_Krishna_Atanu_Biswas_Hitu/Koto Sadhonar Fole - Horinaam - Atanu Biswas Hitu.mp3"
+            },
+            {
+                "name": "Mangal Deep Jwele - Atanu Biswas Hitu",
+                "url": "Hare_Krishna_Atanu_Biswas_Hitu/Mangal Deep Jwele - Atanu Biswas Hitu.mp3"
+            },
+            {
+                "name": "Milon Hobe Koto Dine - Atanu Biswas Hitu",
+                "url": "Hare_Krishna_Atanu_Biswas_Hitu/Milon Hobe Koto Dine - Atanu Biswas Hitu.mp3"
+            },
+            {
+                "name": "Nayono Saroshi Keno Horinaam - Atanu Biswas Hitu",
+                "url": "Hare_Krishna_Atanu_Biswas_Hitu/Nayono Saroshi Keno Horinaam - Atanu Biswas Hitu.mp3"
+            },
+            {
+                "name": "O Sathi Bojho Naki Horinaam - Atanu Biswas Hitu",
+                "url": "Hare_Krishna_Atanu_Biswas_Hitu/O Sathi Bojho Naki Horinaam - Atanu Biswas Hitu.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "হরে কৃষ্ণ - নদিয়া - দেবাশিস ঘোষ",
+        "songs": [
+            {
+                "name": "Ami Jar Kache Jai Sudhu Betha Pai - Debasish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Ami Jar Kache Jai Sudhu Betha Pai - Debasish Ghosh.mp3"
+            },
+            {
+                "name": "Amon Manush Pelam nare -Devashish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Amon Manush Pelam nare -Devashish Ghosh.mp3"
+            },
+            {
+                "name": "Anek Bidona Vora Amar Jibon - Horinam - Debashish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Anek Bidona Vora Amar Jibon - Horinam - Debashish Ghosh.mp3"
+            },
+            {
+                "name": "Bhromor Koigo Giye - Debasish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Bhromor Koigo Giye - Debasish Ghosh.mp3"
+            },
+            {
+                "name": "Chirodini Tumi Je Amar - Debasish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Chirodini Tumi Je Amar - Debasish Ghosh.mp3"
+            },
+            {
+                "name": "Jodi Kagoje Lekho Nam - Debashish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Jodi Kagoje Lekho Nam - Debashish Ghosh.mp3"
+            },
+            {
+                "name": "Koto sadhonar fole - Debashish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Koto sadhonar fole - Debashish Ghosh.mp3"
+            },
+            {
+                "name": "Moner Manush kede Chole Jai - Debashish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Moner Manush kede Chole Jai - Debashish Ghosh.mp3"
+            },
+            {
+                "name": "Pagol Mon - Horinam - Devashish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Pagol Mon - Horinam - Devashish Ghosh.mp3"
+            },
+            {
+                "name": "Ram Kanai er Hit Baul - Debashish Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Ram Kanai er Hit Baul - Debashish Ghosh.mp3"
+            },
+            {
+                "name": "Somoy Gele Sadhan Hoba Na - Debashis Ghosh",
+                "url": "Hare_Krishna_Debashish_Ghosh/Somoy Gele Sadhan Hoba Na - Debashis Ghosh.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "হরে কৃষ্ণ - নদিয়া - মলয় প্রামানিক",
+        "songs": [
+            {
+                "name": "Aadho Aalo Chhaya Te - Hare Krishna -  Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Aadho Aalo Chhaya Te - Hare Krishna -  Malay Pramanik.mp3"
+            },
+            {
+                "name": "Abar Hobe To Dekha - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Abar Hobe To Dekha - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Aekta Tajmahal Bhai Bhai Sampradai - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Aekta Tajmahal Bhai Bhai Sampradai - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Amar eei horinam - Hare Krishna - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Amar eei horinam - Hare Krishna - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Amar garbo shudhu ai -  Horinaam - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Amar garbo shudhu ai -  Horinaam - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Amay Aktu Jaiga Dau - Malay Pramanick",
+                "url": "Hare_Krishna_Malay_Pramanick/Amay Aktu Jaiga Dau - Malay Pramanick.mp3"
+            },
+            {
+                "name": "Ami Hele Dule Jabo Sosan Ghate - Horinam - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Ami Hele Dule Jabo Sosan Ghate - Horinam - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Ami Kemon kore nebo Tomar khobor -  Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Ami Kemon kore nebo Tomar khobor -  Malay Pramanik.mp3"
+            },
+            {
+                "name": "Ar koto raat eka thakbo - Hare Krishna - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Ar koto raat eka thakbo - Hare Krishna - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Bahut Pyar Karte - Hare Krishna - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Bahut Pyar Karte - Hare Krishna - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Bhromor koiyo giya - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Bhromor koiyo giya - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Dil Diya Hai Jaan Bhi Denge - Horinam - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Dil Diya Hai Jaan Bhi Denge - Horinam - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Doya Boti Dorodini Maa - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Doya Boti Dorodini Maa - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Emon manush pelam nare - Hare Krishna - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Emon manush pelam nare - Hare Krishna - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Emon manush pelam nare - Horinam - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Emon manush pelam nare - Horinam - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Hare Krishna 1 - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Hare Krishna 1 - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Hare Krishna 3 Maloy Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Hare Krishna 3 Maloy Pramanik.mp3"
+            },
+            {
+                "name": "Hindi Gaaner Sure Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Hindi Gaaner Sure Malay Pramanik.mp3"
+            },
+            {
+                "name": "Jabe Jadin Sosan ghate - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Jabe Jadin Sosan ghate - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Janina kon thikanai - Hare Krishna - Maloy Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Janina kon thikanai - Hare Krishna - Maloy Pramanik.mp3"
+            },
+            {
+                "name": "Ke bole Pagal se jeno kothay - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Ke bole Pagal se jeno kothay - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Maloy Dar Baul Hare Krishna",
+                "url": "Hare_Krishna_Malay_Pramanick/Maloy Dar Baul Hare Krishna.mp3"
+            },
+            {
+                "name": "Mon Bole Priya Priya - Hare Krishna - Maloy Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Mon Bole Priya Priya - Hare Krishna - Maloy Pramanik.mp3"
+            },
+            {
+                "name": "Moner manush kende chole jai - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Moner manush kende chole jai - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Nazar ke samne - hore krishna - Malay pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Nazar ke samne - hore krishna - Malay pramanik.mp3"
+            },
+            {
+                "name": "O nagor koiya jao - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/O nagor koiya jao - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Onek bedone vora jibon - Hare Krishna - Maloy Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Onek bedone vora jibon - Hare Krishna - Maloy Pramanik.mp3"
+            },
+            {
+                "name": "Pronam Tomay He Tarekeswar - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Pronam Tomay He Tarekeswar - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Pyaar Hamara Amar Rahega - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Pyaar Hamara Amar Rahega - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Radhe Radhe Japa Karo Hare Krishna - Maloy Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Radhe Radhe Japa Karo Hare Krishna - Maloy Pramanik.mp3"
+            },
+            {
+                "name": "Ram Jaane - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Ram Jaane - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Rangabati - Hare Krishna - Maloy Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Rangabati - Hare Krishna - Maloy Pramanik.mp3"
+            },
+            {
+                "name": "Rat name du chokhe ghum jorai - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Rat name du chokhe ghum jorai - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Rim Jhim Gire Sawan - Hare Krishna - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Rim Jhim Gire Sawan - Hare Krishna - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Samai Gele Saadhona Hobena - Malay Pramanik",
+                "url": "Hare_Krishna_Malay_Pramanick/Samai Gele Saadhona Hobena - Malay Pramanik.mp3"
+            },
+            {
+                "name": "Tomra Kunjo Sajao Go - Malay Pramanick",
+                "url": "Hare_Krishna_Malay_Pramanick/Tomra Kunjo Sajao Go - Malay Pramanick.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "হরে কৃষ্ণ - নদিয়া - সুকন্ত মণ্ডল",
+        "songs": [
+            {
+                "name": "Agune Te Purbe Deho - Sukanta Mandal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Agune Te Purbe Deho - Sukanta Mandal.mp3"
+            },
+            {
+                "name": "Ajke Rate Aso Sopoth kori -  Sukanto Mondal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Ajke Rate Aso Sopoth kori -  Sukanto Mondal.mp3"
+            },
+            {
+                "name": "Dole Rai Kishori - Sukanta Mandal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Dole Rai Kishori - Sukanta Mandal.mp3"
+            },
+            {
+                "name": "E Jibone Daga Chara r Ki Peli - Sukanto Mondal",
+                "url": "Hare_Krishna_Sukanta_Mandal/E Jibone Daga Chara r Ki Peli - Sukanto Mondal.mp3"
+            },
+            {
+                "name": "Porena Chokher Polok - Sukanto Mondal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Porena Chokher Polok - Sukanto Mondal.mp3"
+            },
+            {
+                "name": "Pranam Tomay he Tarakeswar - Sukanta Manadal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Pranam Tomay he Tarakeswar - Sukanta Manadal.mp3"
+            },
+            {
+                "name": "Pratham Dekhar Dintare -  Sukanto Mondal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Pratham Dekhar Dintare -  Sukanto Mondal.mp3"
+            },
+            {
+                "name": "Prem Koreche - Sukanta Mandal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Prem Koreche - Sukanta Mandal.mp3"
+            },
+            {
+                "name": "Rat Name Du Chokhe - Sukanta Mandal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Rat Name Du Chokhe - Sukanta Mandal.mp3"
+            },
+            {
+                "name": "Soite pari nare doyal re - Sukanta Mandal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Soite pari nare doyal re - Sukanta Mandal.mp3"
+            },
+            {
+                "name": "To Chalun Border - Sukanta Mandal",
+                "url": "Hare_Krishna_Sukanta_Mandal/To Chalun Border - Sukanta Mandal.mp3"
+            },
+            {
+                "name": "Tomai Chare Kothai Jabo - Sukanta Mandal",
+                "url": "Hare_Krishna_Sukanta_Mandal/Tomai Chare Kothai Jabo - Sukanta Mandal.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "ইসকন ভজন",
+        "songs": [
+            {
+                "name": "ISKCON Gour Arati Jaya Jaya Gora Chad",
+                "url": "ISKCON/ISKCON Gour Arati Jaya Jaya Gora Chad.mp3"
+            },
+            {
+                "name": "Iskcon Namaste Narasimhaya",
+                "url": "ISKCON/Iskcon Namaste Narasimhaya.mp3"
+            },
+            {
+                "name": "Iskcon Sandhya Aarti Bhaja Bhakata Batsala",
+                "url": "ISKCON/Iskcon Sandhya Aarti Bhaja Bhakata Batsala.mp3"
+            },
+            {
+                "name": "Iskcon Sri Guru Charanapaddma 2",
+                "url": "ISKCON/Iskcon Sri Guru Charanapaddma 2.mp3"
+            },
+            {
+                "name": "ISKCON Sri Krishna Chaitanya Prabhu Iskcon Bhaj",
+                "url": "ISKCON/ISKCON Sri Krishna Chaitanya Prabhu Iskcon Bhaj.mp3"
+            },
+            {
+                "name": "ISKCON Tulasi Arati",
+                "url": "ISKCON/ISKCON Tulasi Arati.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "বাংলা কৃষ্ণ ভজন",
+        "songs": [
+            {
+                "name": "Brindabono Bilasini Rai amader by Aditi Munshi",
+                "url": "Krishna_Bhajan_Bengali/Brindabono Bilasini Rai amader by Aditi Munshi.mp3"
+            },
+            {
+                "name": "Du Haath Tule Gao Re",
+                "url": "Krishna_Bhajan_Bengali/Du Haath Tule Gao Re.mp3"
+            },
+            {
+                "name": "Kato Sadhonar Fole Ei Manob Jibon",
+                "url": "Krishna_Bhajan_Bengali/Kato Sadhonar Fole Ei Manob Jibon.mp3"
+            },
+            {
+                "name": "Ke anilo re kothai chilore re",
+                "url": "Krishna_Bhajan_Bengali/Ke anilo re kothai chilore re.mp3"
+            },
+            {
+                "name": "Nodiyar Pothe Pothe",
+                "url": "Krishna_Bhajan_Bengali/Nodiyar Pothe Pothe.mp3"
+            },
+            {
+                "name": "Sandhya Aarti Trinayani Sampradai",
+                "url": "Krishna_Bhajan_Bengali/Sandhya Aarti Trinayani Sampradai.mp3"
+            },
+            {
+                "name": "shyam er o basi baze",
+                "url": "Krishna_Bhajan_Bengali/shyam er o basi baze.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "হিন্দি কৃষ্ণ ভজন",
+        "songs": [
+            {
+                "name": "Achyutam Keshavam Krishna Damodaram by Alka Yagnik",
+                "url": "Krishna_Bhajan_Hindi/Achyutam Keshavam Krishna Damodaram by Alka Yagnik.mp3"
+            },
+            {
+                "name": "Adharam Madhuram Krishna Bhajan",
+                "url": "Krishna_Bhajan_Hindi/Adharam Madhuram Krishna Bhajan.mp3"
+            },
+            {
+                "name": "Anup Jalota Aisi Lagi Lagan Meera Ho Gayi Magan",
+                "url": "Krishna_Bhajan_Hindi/Anup Jalota Aisi Lagi Lagan Meera Ho Gayi Magan.mp3"
+            },
+            {
+                "name": "Itna to Karna Swami Jab Pran Tan Se Nikle",
+                "url": "Krishna_Bhajan_Hindi/Itna to Karna Swami Jab Pran Tan Se Nikle.mp3"
+            },
+            {
+                "name": "Jai Radhe Krishna Radhe Krishna Bhajan ANURADHA PA",
+                "url": "Krishna_Bhajan_Hindi/Jai Radhe Krishna Radhe Krishna Bhajan ANURADHA PA.mp3"
+            },
+            {
+                "name": "Kishori kuch aisa intjam ho jaye",
+                "url": "Krishna_Bhajan_Hindi/Kishori kuch aisa intjam ho jaye.mp3"
+            },
+            {
+                "name": "Krishna Gayatri Anuradha Paudwal",
+                "url": "Krishna_Bhajan_Hindi/Krishna Gayatri Anuradha Paudwal.mp3"
+            },
+            {
+                "name": "Narayan narayan hari hari",
+                "url": "Krishna_Bhajan_Hindi/Narayan narayan hari hari.mp3"
+            },
+            {
+                "name": "Om Jai Jagdish Hare Aarti I ANURADHA PAUDWAL",
+                "url": "Krishna_Bhajan_Hindi/Om Jai Jagdish Hare Aarti I ANURADHA PAUDWAL.mp3"
+            },
+            {
+                "name": "Racha Hai Sristi ko Jis prabhu ne",
+                "url": "Krishna_Bhajan_Hindi/Racha Hai Sristi ko Jis prabhu ne.mp3"
+            },
+            {
+                "name": "Radhe Radhe Japa Karo",
+                "url": "Krishna_Bhajan_Hindi/Radhe Radhe Japa Karo.mp3"
+            },
+            {
+                "name": "Radhe Tere Charno Ki dhul jo mil jaye - Ravi Raj",
+                "url": "Krishna_Bhajan_Hindi/Radhe Tere Charno Ki dhul jo mil jaye - Ravi Raj.mp3"
+            },
+            {
+                "name": "Radhe-Radhe-Barsane-Wali-Radhe",
+                "url": "Krishna_Bhajan_Hindi/Radhe-Radhe-Barsane-Wali-Radhe.mp3"
+            },
+            {
+                "name": "Shri Krishna Govind Hare Murari Ravindra Jain",
+                "url": "Krishna_Bhajan_Hindi/Shri Krishna Govind Hare Murari Ravindra Jain.mp3"
+            },
+            {
+                "name": "SHRIMAD BHAGVAD GEETA GYAN SHRI KRISHNA VAANI",
+                "url": "Krishna_Bhajan_Hindi/SHRIMAD BHAGVAD GEETA GYAN SHRI KRISHNA VAANI.mp3"
+            },
+            {
+                "name": "Shyama Aan Baso Vrindavan Mein - TRIPTI SHAKYA",
+                "url": "Krishna_Bhajan_Hindi/Shyama Aan Baso Vrindavan Mein - TRIPTI SHAKYA.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "দুর্গা ভজন",
+        "songs": [
+            {
+                "name": "chalo bulawa aaya hai",
+                "url": "Maata_Vaishno_Devi/chalo bulawa aaya hai.mp3"
+            },
+            {
+                "name": "Durga Ashtottar Shatnam",
+                "url": "Maata_Vaishno_Devi/Durga Ashtottar Shatnam.mp3"
+            },
+            {
+                "name": "gayatri mantra 21 times anuradha paudwal",
+                "url": "Maata_Vaishno_Devi/gayatri mantra 21 times anuradha paudwal.mp3"
+            },
+            {
+                "name": "Main Balak Tu Mata Aa Maa Aa Tujhe Dil Ne Pukara -",
+                "url": "Maata_Vaishno_Devi/Main Balak Tu Mata Aa Maa Aa Tujhe Dil Ne Pukara -.mp3"
+            },
+            {
+                "name": "Mata Vaishno Devi - Durga Chalisa",
+                "url": "Maata_Vaishno_Devi/Mata Vaishno Devi - Durga Chalisa.mp3"
+            },
+            {
+                "name": "Mata Vaishno Devi - Maa Tu Sheravali",
+                "url": "Maata_Vaishno_Devi/Mata Vaishno Devi - Maa Tu Sheravali.mp3"
+            },
+            {
+                "name": "Mata Vaishno Devi - Saanjh Sakare",
+                "url": "Maata_Vaishno_Devi/Mata Vaishno Devi - Saanjh Sakare.mp3"
+            },
+            {
+                "name": "Navratri - O Aaye Tere Bhawan",
+                "url": "Maata_Vaishno_Devi/Navratri - O Aaye Tere Bhawan.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "শিব ভজন",
+        "songs": [
+            {
+                "name": "Anuradha Shiv Shankar Ko Jisne Puja - Shiv Aarti",
+                "url": "Shiv_Bhakti/Anuradha Shiv Shankar Ko Jisne Puja - Shiv Aarti.mp3"
+            },
+            {
+                "name": "Eei Je Akash Ar Ei Je Mati",
+                "url": "Shiv_Bhakti/Eei Je Akash Ar Ei Je Mati.mp3"
+            },
+            {
+                "name": "Ganga Ki Har mauj mai",
+                "url": "Shiv_Bhakti/Ganga Ki Har mauj mai.mp3"
+            },
+            {
+                "name": "Hey Bhole Shankar Padhao - Shiv Aarti - Gulshan Ku",
+                "url": "Shiv_Bhakti/Hey Bhole Shankar Padhao - Shiv Aarti - Gulshan Ku.mp3"
+            },
+            {
+                "name": "Hey Shiv Shankar",
+                "url": "Shiv_Bhakti/Hey Shiv Shankar.mp3"
+            },
+            {
+                "name": "Hey Shivshankar Anuradha Paudwal",
+                "url": "Shiv_Bhakti/Hey Shivshankar Anuradha Paudwal.mp3"
+            },
+            {
+                "name": "Jis din jubav pe meri - Shiv Aarti - Anuradha Paud",
+                "url": "Shiv_Bhakti/Jis din jubav pe meri - Shiv Aarti - Anuradha Paud.mp3"
+            },
+            {
+                "name": "Khesari Lal Yadav Kailash Dhua Dhua Hai",
+                "url": "Shiv_Bhakti/Khesari Lal Yadav Kailash Dhua Dhua Hai.mp3"
+            },
+            {
+                "name": "Liya Naam Jisne Bhi Shiv Aarti - Gulshan Kumar",
+                "url": "Shiv_Bhakti/Liya Naam Jisne Bhi Shiv Aarti - Gulshan Kumar.mp3"
+            },
+            {
+                "name": "Maha Shivratri Aayi Sukho Ki Ratri Aayi",
+                "url": "Shiv_Bhakti/Maha Shivratri Aayi Sukho Ki Ratri Aayi.mp3"
+            },
+            {
+                "name": "Mahadev Shankar Hai Jag Se Nirale - Shiv Aarti -",
+                "url": "Shiv_Bhakti/Mahadev Shankar Hai Jag Se Nirale - Shiv Aarti -.mp3"
+            },
+            {
+                "name": "Mahamritunjay Manta Anuradha Paudwal",
+                "url": "Shiv_Bhakti/Mahamritunjay Manta Anuradha Paudwal.mp3"
+            },
+            {
+                "name": "Man mera mandir - Shiv Aarti - Anuradha Paudwal",
+                "url": "Shiv_Bhakti/Man mera mandir - Shiv Aarti - Anuradha Paudwal.mp3"
+            },
+            {
+                "name": "Om Namah Shivay Dhun 108 Times By Anuradha Paudwal",
+                "url": "Shiv_Bhakti/Om Namah Shivay Dhun 108 Times By Anuradha Paudwal.mp3"
+            },
+            {
+                "name": "Prabhu He Bholanath",
+                "url": "Shiv_Bhakti/Prabhu He Bholanath.mp3"
+            },
+            {
+                "name": "Shiv Shankar Ka Gun Gaan Karo - Shiv Aarti - Gulsh",
+                "url": "Shiv_Bhakti/Shiv Shankar Ka Gun Gaan Karo - Shiv Aarti - Gulsh.mp3"
+            },
+            {
+                "name": "Shiv shankar ko jisne puja - Shiv Aarti - Gulsha",
+                "url": "Shiv_Bhakti/Shiv shankar ko jisne puja - Shiv Aarti - Gulsha.mp3"
+            },
+            {
+                "name": "Sonu Nigam Shib Bhajan",
+                "url": "Shiv_Bhakti/Sonu Nigam Shib Bhajan.mp3"
+            },
+            {
+                "name": "Subah Subah Le Shiv Ka Naam Gulshan Kumar",
+                "url": "Shiv_Bhakti/Subah Subah Le Shiv Ka Naam Gulshan Kumar.mp3"
+            }
+        ]
+    }
 ]
